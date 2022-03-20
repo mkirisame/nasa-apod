@@ -1,0 +1,28 @@
+PODS:
+  - Kingfisher (7.2.0)
+  - PinLayout (1.10.2)
+  - PureLayout (3.1.9)
+  - youtube-ios-player-helper (1.0.4)
+
+DEPENDENCIES:
+  - Kingfisher (~> 7.0)
+  - PinLayout
+  - PureLayout
+  - youtube-ios-player-helper
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - PinLayout
+    - PureLayout
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  Kingfisher: 3ac0b75b155cabc0e544877d1a4deea29feece92
+  PinLayout: d6b1960e4b182b4da1481b9aa6728f621e20708d
+  PureLayout: 5fb5e5429519627d60d079ccb1eaa7265ce7cf88
+  youtube-ios-player-helper: e9b97535e816db3152179d84d999bc1807ecd689
+
+PODFILE CHECKSUM: 1e48a8a776eb2479698d379c28f16c86fe87fd38
+
+COCOAPODS: 1.11.3
